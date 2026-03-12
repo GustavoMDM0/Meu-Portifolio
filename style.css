@@ -33,11 +33,6 @@ body {
   transition: transform 0.3s ease;
 }
 
-.titulo-impactante:hover,
-.section-title:hover {
-  transform: scale(1.03);
-}
-
 .text-glow {
   color: #fff;
   text-shadow: 0 0 4px #4da6ff88;
